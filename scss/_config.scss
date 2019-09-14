@@ -2,6 +2,7 @@ $primary-color: #444; //for variable assignment 444 for dark grey
 $secondary-color: #eece1a;
 $show-home-image: true;
 $home-image: url(../img/img2.jpg);
+$branding-image: url(../img/small100.jpg);
 $background-opacity: 0.9;
 
 @mixin easeOut {

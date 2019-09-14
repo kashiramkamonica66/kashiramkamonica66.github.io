@@ -44,7 +44,7 @@
     transform: translate3d(100%, 0, 0);
 
     .portrait {
-      background: url("../img/small100.jpg");
+      background: $branding-image;
       width: 100px;
       height: 100px;
     }
