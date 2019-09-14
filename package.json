@@ -12,7 +12,7 @@
   },
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -b master -d dist"
   },
   "author": "Monica",
   "license": "MIT"
